@@ -1,0 +1,66 @@
+/* CSS Document */
+
+body{}
+*{ margin:0; padding:0}
+ul,li{ list-style:none}
+a img{ border:none}
+img{ vertical-align:top}
+
+a{color: #bcdfff;text-decoration: none;}
+a{outline:none;blr:expression(this.onFocus=this.blur());}
+a:hover{color: #bcdfff;text-decoration: underline;}
+.clear{ clear:both;float:none;}
+
+.block{width:1100px; margin:0 auto; background:url(http://imgs.inkfrog.com/pix/mlstudio/background.jpg) repeat-x}
+.head{ width:1100px; height:191px}
+.logo{ padding:30px 0 0 26px; width:196px; height:146px; float:left;}
+.head_right{ width:878px; float:right; margin-top:5px; height:146px}
+.phone{float:right; width:521px; height:44px; background:url(http://imgs.inkfrog.com/pix/mlstudio/phone_05.jpg) no-repeat center top; font-size:12px; color:#7d7d7d;font-weight: bold}
+.phone dl{display: block; height:44px}
+.phone dl dt{ float:left; margin:5px 0 0 90px;display:inline;}
+.phone dl dd{line-height:13px; margin-left:5px;display: block; width:318px; float:left;display:inline;}
+
+.paypal{float:right; width:733px; height:44px;font-size:12px; color:#7d7d7d;font-weight: bold; margin-top:50px}
+.paypal dl{display: block;height:53px}
+.paypal dl dt{ float:left; display:inline;}
+.paypal dl dd{line-height:18px; margin-left:5px;float:left;display:inline; color:#002d55}
+
+.banner{width:1100px; height:348px; margin-bottom:15px}
+.content_area{background:#FFF; margin-top:15px;}
+.content_area_left{ width:250px; margin:9px 12px 0 11px; float:left;display:inline;}
+.store_search{}
+.store{height:154px; background:url(http://imgs.inkfrog.com/pix/mlstudio/content_area_left_45.jpg) repeat}
+
+
+.nav01{width:250px; margin:15px 0}
+	.nav01 h2{background:url(images/content_area_left_50.jpg) no-repeat; height:39px}
+	.clear{ clear:both;float:none;}
+    #nav {width:230px;list-style-type: none;text-align:left;}  
+    #nav a {width: 230px;display: block;padding:2px 0 2px 20px; height:32px; line-height:32px}  
+    #nav li {background: url(http://imgs.inkfrog.com/pix/mlstudio/content_area_left_45.jpg) repeat;border-bottom:#ffffff 1px solid;float:left; font-size:14px; font-family:Arial, Helvetica, sans-serif;}  
+    #nav li a:hover{background:#70bbff;}  
+    #nav a:link{color:#666;text-decoration:none;}  
+    #nav a:visited{color:#666;text-decoration:none;}  
+	#nav a:hover  {color:#ffffff;text-decoration:none;} 
+	
+	 
+    #nav li ul {list-style:none;text-align:left;padding:0;}  
+    #nav li ul li{background: #ecf6ff;}  
+    #nav li ul a{padding-left:30px;width:220px;}  
+    #nav li ul a:link{color:#666;text-decoration:none;}  
+    #nav li ul a:visited{color:#666;text-decoration:none;}  
+    #nav li ul a:hover{color:#5f5f5f;text-decoration:none;font-weight:normal;background:#e6e6e6;}  
+    #nav li:hover ul {left: auto;}  
+    #nav li.sfhover ul {left: auto;}  
+    #content {lear: left;}  
+    #nav ul.collapsed {display: none;}
+	.store_pages{margin:15px 0}  
+	
+	
+	#news02{width:250px; background:url(http://imgs.inkfrog.com/pix/mlstudio/content_area_left_45.jpg) repeat; padding-bottom:10xp}
+#news02 ul{width:210px}
+#news02 li{float:left;margin:14px 0 0 18px;display:inline;border: 1px solid #e2e2e2; background:#fff; width:210px;display:inline;}
+.name{display:block;text-indent:10px;margin-top:15px; font-size:15px; color:#006bcb;font-weight: bold;}
+.name01{display:block;line-height:15px; padding:10px; color:#666565}
+.name01 a{color: #666565;text-decoration: none;}
+.name01 a:hover{color: #666565;text-decoration: underline;}
